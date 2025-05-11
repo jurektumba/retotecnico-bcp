@@ -1,0 +1,6 @@
+@retotecnico_bcp_HostAddress = http://localhost:5212
+
+GET {{retotecnico_bcp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
